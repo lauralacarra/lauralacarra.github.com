@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "title"
+title: "Hola ke ase"
 date: 2013-05-29 20:22
 comments: true
 categories: 
 ---
 
-Hola ke ase
+Pues un blog con Octoprees jojojojo
+
